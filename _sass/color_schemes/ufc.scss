@@ -1,0 +1,34 @@
+$baby-powder: #FDFFFC;
+$midnight-blue: #000B52;
+$coquelicot: #FC440F;
+
+
+$body-background-color: $baby-powder;
+$sidebar-color: $midnight-blue;
+$border-color: $grey-dk-200;
+
+$body-text-color: $grey-dk-100 !default;
+$body-heading-color: $grey-dk-200;
+$nav-child-link-color: $grey-dk-000;
+$search-result-preview-color: $grey-dk-000;
+
+$link-color: $coquelicot;
+$btn-primary-color: $blue-200;
+$base-button-color: $grey-lt-000 !default;
+
+$code-background-color: $midnight-blue;
+$search-background-color: $grey-dk-250;
+$table-background-color: $baby-powder;
+$feedback-color: darken($sidebar-color, 3%);
+
+.nav-list-item  a {
+    color: $baby-powder;
+}
+
+.nav-list .nav-list-item a.nav-list-expander {
+    color: $baby-powder;
+}
+
+code {
+    color: $baby-powder;
+}

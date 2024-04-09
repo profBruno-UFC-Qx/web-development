@@ -50,14 +50,14 @@ Fiquem a vontade para resolver todos os exercícios 😏
 - [🇧🇯 17 - Desafio da bandeira - Nível Intermediário - Benin](https://classroom.github.com/a/tcXOBMS_)
 - [🇹🇭 18 - Desafio da bandeira - Nível Intermediário - Tailândia](https://classroom.github.com/a/VzOFp6Ww)
 - [🇫🇮 19 - Desafio da bandeira - Nível avançado - Finlândia](https://classroom.github.com/a/IkOz2eNw)
-- [🇳🇴 20 - Desafio da bandeira - Nível avançado - Noruega](https://classroom.github.com/a/5Mu3JpDz) <span class="label label-blue">Vale nota. Prazo: A definir</span>
+- [🇳🇴 20 - Desafio da bandeira - Nível avançado - Noruega](https://classroom.github.com/a/5Mu3JpDz) <span class="label label-blue">Vale nota. Prazo: 22/04/24 às 6:00</span>
 
 - [🇨🇭 21 - Desafio da bandeira - Nível avançado -Suiça](https://classroom.github.com/a/KWr1to88)
 
 ### Responsividade
 - [💤 22 - Site com fonte responsiva](https://classroom.github.com/a/z1EbLhLz)
-- [🔲 23 - Layout responsivo usando Flexbox](https://classroom.github.com/a/tzFWUEIq)  <span class="label label-blue">Vale nota. Prazo: A definir</span>
-- [👁️‍🗨️ 24- Ocultando para caber](https://classroom.github.com/a/Lp_JftQ4)  <span class="label label-blue">Vale nota. Prazo: A definir</span>
+- [🔲 23 - Layout responsivo usando Flexbox](https://classroom.github.com/a/tzFWUEIq)  <span class="label label-blue">Vale nota. Prazo: 29/04/24 às 6:00</span>
+- [👁️‍🗨️ 24- Ocultando para caber](https://classroom.github.com/a/Lp_JftQ4)  <span class="label label-blue">Vale nota. Prazo: 29/04/24 às 6:00</span>
 
 --- 
 
@@ -72,12 +72,12 @@ Fiquem a vontade para resolver todos os exercícios 😏
 - [📉 30 - Calculando a pontuação no brasileirão](https://classroom.github.com/a/rh7iv_do)
 - [🧮 31 - Calculando o faturamento das vendas](https://classroom.github.com/a/FkM4RxhI)
 - [🏷️ 32 - Aquele desconto que todos gostam](https://classroom.github.com/a/ARniGLYC)
-- [💸 33 - Programa de milhas](https://classroom.github.com/a/mWgCcVfn)  <span class="label label-blue">Vale nota. Prazo: A definir</span>
+- [💸 33 - Programa de milhas](https://classroom.github.com/a/mWgCcVfn)  <span class="label label-blue">Vale nota. 29/04/24 às 6:00</span>
 
 ### Promises
 - [🔀 34 - Simulando um fluxo de login com promises](https://classroom.github.com/a/yvH9bWu1)
-- [🌐 35 - Consumindo uma API externa](https://classroom.github.com/a/N2SlzncQ)  <span class="label label-blue">Vale nota. Prazo: A definir</span>
-- [⛓️ 36 - Encadeamento de ações assíncronas](https://classroom.github.com/a/eNKCqQhM)  <span class="label label-blue">Vale nota. Prazo: A definir</span>
+- [🌐 35 - Consumindo uma API externa](https://classroom.github.com/a/N2SlzncQ)  <span class="label label-blue">Vale nota. Prazo: 29/04/24 às 6:00</span>
+- [⛓️ 36 - Encadeamento de ações assíncronas](https://classroom.github.com/a/eNKCqQhM)  <span class="label label-blue">Vale nota. Prazo: 29/04/24 às 6:00</span>
 
 ### Manipulação da DOM
 - [📝 37 - Gerando parágrafos](https://classroom.github.com/a/klrEXnuy)

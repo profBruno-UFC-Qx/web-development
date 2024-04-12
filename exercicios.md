@@ -38,7 +38,7 @@ Fiquem a vontade para resolver todos os exercícios 😏
 ### Pseudo-classes e Pseudo-elementos
 
 - [📹 09 - Estilizando um site de notícias](https://classroom.github.com/a/kcAVkHXx)
-- [📸 10 - Criando uma galeria de fotos](https://classroom.github.com/a/2nAVyiCq) <span class="label label-blue">Vale nota. Prazo: 22/04/24 às 6:00</span>
+- [📸 10 - Criando uma galeria de fotos](https://classroom.github.com/a/9FxB45ne) <span class="label label-blue">Vale nota. Prazo: 22/04/24 às 6:00</span>
 - [📜 11 - Layout de duas colunas a moda antiga](https://classroom.github.com/a/QgNRerLY)
 
 ### Layout (float e flexbox)

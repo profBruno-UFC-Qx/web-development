@@ -1,10 +1,10 @@
 ---
-title: Aula 7 - JavaScript na Web
+title: Aula 7 - Promises
 nav_order: 7
 has_children: true
 has_toc: false
-youtubeId: irzyh2bacPs
-next: 01-introducao
+#youtubeId: 8pW5SjU7Ggs
+next: ../08
 ---
 
 {% assign title = page.title | split: "-" %}
@@ -14,11 +14,13 @@ next: 01-introducao
 ### Recurso
 
 <span class="fs-3">
-  <a href="{{site.baseurl}}/assets/downloads/07-JavaScript-na-Web.pdf" class="btn" target="_blank">Notas de aula</a>
-  <a href="https://www.icloud.com/keynote/0GDTVZX4m6lppt1uxjntVY2Yg#07-JavaScript-na-web" class="btn" target="_blank">Notas de aula com animações</a>
+<a href="{{site.baseurl}}/assets/downloads/07-Promises.pdf" class="btn" target="_blank">Slides aqui</a>
 </span>
 
+{% comment %}
 {% include youtubePlayer.html id=page.youtubeId %}
+{% endcomment %}
+
 
 <span class="fs-3 float-right">
 [Próxima aulas]({{page.next}}){: .btn }

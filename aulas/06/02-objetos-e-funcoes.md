@@ -3,6 +3,7 @@ title: 02. Objetos e Funções
 parent: Aula 6 - Fundamentos de JavaScript
 nav_order: 2
 youtubeId: LGL8PyS_gXs
+next: ../07
 ---
 
 {% assign title = page.title | split: "." %}
@@ -19,6 +20,6 @@ youtubeId: LGL8PyS_gXs
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3 float-right">
-[Próxima aulas](../07/){: .btn }
+[Próxima aulas]({{page.next}}){: .btn }
 </span>
 
